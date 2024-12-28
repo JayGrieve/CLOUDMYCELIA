@@ -1,6 +1,6 @@
 # CLOUDMYCELIA
 
-CLOUDMYCELIA is a web-app that uses computer vision to track the growth of mycelium on grain spawn. Images are taken by a Raspberry Pi and uploaded to AWS. A custom computer vision algorithm measures the colonization progress. Results and analysis are displayed for the grower to view on the website.
+[CLOUDMYCELIA](https://cloudmycelia.com) is a web-app that uses computer vision to track the growth of mycelium on grain spawn. Images are taken by a Raspberry Pi and uploaded to AWS. A custom computer vision algorithm measures the colonization progress. Results and analysis are displayed for the grower to view on the website.
 
 ## Stack
 
