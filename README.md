@@ -6,9 +6,6 @@
 
 ![image](https://github.com/user-attachments/assets/970d19f2-7da4-4c17-bc4a-dd6db804eaab)
 
-
-## Directory Structure
-
 ## Directory Structure
 
 - [Backend](./backend)  
